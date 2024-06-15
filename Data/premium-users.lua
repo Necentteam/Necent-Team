@@ -1,4 +1,4 @@
-local premiumusers = {
+return {
   "123", 
-  "1234", 
+  "1234"
 }
